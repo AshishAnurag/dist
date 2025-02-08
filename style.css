@@ -22,7 +22,7 @@ body {
 	place-items: center;
 	margin: 0;
 	padding: 0;
-	background: linear-gradient(to right, #00805c, #00e677, #b3ffb3, #00e686, #00803e);
+	background: linear-gradient(to right, #800057, #e600cb, #ffb3ef, #e600ad, #80004b);
 	font-family: 'Martel Sans', sans-serif;
 }
 
@@ -257,11 +257,24 @@ p {
 }
 
 .button button {
-	padding: 5px;
-	padding-left: 10px;
-	padding-right: 10px;
-	border-radius: 5px;
-	margin: 40px;
+	padding: 15%;
+	border-radius: 100%;
+	margin-top: 35px;
+	margin-left: 70px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	box-shadow: 2px 2px 8px black;
+}
+
+#love{
+	background-color: #f83ac9;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+#faltu{
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
 .button {
