@@ -8,7 +8,7 @@ var customalert = document.getElementById('showalert')
 function myfunc2() {
     customalert.style.display = 'block';
 }
-function hidealert2() {
+function hidealert() {
     customalert.style.display = 'none';
 }
 
